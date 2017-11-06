@@ -1,0 +1,16 @@
+2017-10-25 12:08:42.8229|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Sample informational message, k=42, l=100
+2017-10-25 12:08:43.1248|WARN|AVISTEDDataExtractor.Controllers.ValuesController|Sample warning message, k=42, l=100
+2017-10-25 12:08:43.3587|ERROR|AVISTEDDataExtractor.Controllers.ValuesController|Sample error message, k=42, l=100
+2017-10-25 12:08:43.6833|FATAL|AVISTEDDataExtractor.Controllers.ValuesController|Sample fatal error message, k=42, l=100
+2017-10-25 12:08:44.0344|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Sample informational message, k=42, l=100
+2017-10-25 13:01:53.6401|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Sample informational message, k=42, l=100
+2017-10-25 13:01:53.7651|WARN|AVISTEDDataExtractor.Controllers.ValuesController|Sample warning message, k=42, l=100
+2017-10-25 13:01:53.8581|ERROR|AVISTEDDataExtractor.Controllers.ValuesController|Sample error message, k=42, l=100
+2017-10-25 13:01:53.8701|FATAL|AVISTEDDataExtractor.Controllers.ValuesController|Sample fatal error message, k=42, l=100
+2017-10-25 13:01:53.8801|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Sample informational message, k=42, l=100
+2017-10-25 13:01:54.3631|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED GET()
+2017-10-25 13:01:55.0741|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED ExtractNetCDF()
+2017-10-25 13:56:44.7118|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED GET()
+2017-10-25 13:56:45.4419|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED ExtractNetCDF()
+2017-10-25 13:58:00.6489|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED GET()
+2017-10-25 13:58:00.6599|INFO|AVISTEDDataExtractor.Controllers.ValuesController|Entered AVISTED ExtractNetCDF()
